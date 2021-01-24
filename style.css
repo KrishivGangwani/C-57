@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    backround: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+}
+
+img {
+    border-radius: 50%;
+    width: 100px
+}
+
+h1 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 20px
+}
